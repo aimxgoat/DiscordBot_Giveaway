@@ -1,0 +1,1 @@
+!giveaway <time> <winners> <prize>
